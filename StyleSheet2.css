@@ -1,0 +1,140 @@
+﻿
+
+
+
+.body {
+    height: 10vh;
+    max-width: 1500px;
+    background-color: #ADD8E6;
+    margin: 0 auto;
+   
+}
+
+body {
+    font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+    background-color: #ADD8E6;
+    margin: 0;
+    padding: 0;
+    color: #ADD8E6;
+ 
+}
+
+.p1 {
+    text-align: center;
+    
+}
+
+.headinfo {
+    position: relative;
+    width: 800px;
+    height: 50px;
+    right: 100px;
+    direction: rtl;
+    font-language-override: 'ar';
+}
+.div-1 {
+    color: #000000;
+    background-color: #C0C0C0;
+    font-size: 14px;
+    float: left;
+    width: 45%;
+    height: 55%;
+    position: absolute;
+}
+
+.div-2 {
+    color: #000000;
+    background-color: #C0C0C0;
+    font-size: 14px;
+    float: right;
+    width: 48%;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    height: 150%;
+}
+
+
+
+
+.h11 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    border-radius: 10px;
+    padding: 40px;
+    top: 800px;
+    direction: rtl;
+    font-language-override: 'ar';
+   
+}
+
+
+
+.h12 {
+    font-family: 'Courier New', Courier, monospace;
+    direction: rtl;
+    font-language-override: 'ar';
+    left: 100px ;
+}
+
+.h21 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    direction: rtl;
+    font-language-override: 'ar';
+}
+
+    .b
+
+{
+    position: relative;
+    background: #ADD8E6;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 8px;
+    padding: 20px;
+    left: 380px;
+}
+
+    .b:hover {
+        background-color: #C0C0C0;
+        cursor: pointer;
+        direction: rtl;
+        font-language-override: 'ar';
+    }
+
+
+
+.b1 {
+    position: relative;
+    background: #ADD8E6;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 8px;
+    padding: 20px;
+    left: 380px;
+    direction: rtl;
+    font-language-override: 'ar';
+    color: #000000;
+    background-color: #C0C0C0;
+}
+
+    .b1:hover {
+        background-color: #C0C0C0;
+        cursor: pointer;
+        direction: rtl;
+        font-language-override: 'ar';
+       
+    }
+
+.head1 {
+    position: center;
+    width: 1500px;
+    height: 400px;
+    color: #000000;
+    background-color: #C0C0C0;
+    font-size: 14px;
+   
+}
